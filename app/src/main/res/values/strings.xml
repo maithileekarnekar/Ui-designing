@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rinzify</string>
+    <string name="login_sign_up">Login / Sign Up</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="next">Next</string>
+    <string name="or">OR</string>
+    <string name="by_continuing_you_agree_to_our">By continuing, you agree to our</string>
+    <string name="dotted_line_view">---------------------------- ---------------------- --------------------------</string>
+    <string name="terms_of_services">Terms of Services</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="content_policies">Content Policies</string>
+</resources>
